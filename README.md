@@ -11,6 +11,10 @@ A real-time stock price monitoring tool that captures NVIDIA (NVDA) stock prices
 - Comprehensive error handling and logging
 - Memory-efficient (no permanent screenshot storage)
 
+## Demo
+
+https://github.com/shosseini811/StockPriceScraper/assets/demo.mov
+
 ## Data Captured
 
 The script captures and stores the following information:
