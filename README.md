@@ -13,7 +13,7 @@ A real-time stock price monitoring tool that captures NVIDIA (NVDA) stock prices
 
 ## Demo
 
-![Demo Video](https://github.com/user-attachments/assets/bbc70313-2563-45d5-a2c7-d6573bb914e3)
+<video src="https://github.com/user-attachments/assets/bbc70313-2563-45d5-a2c7-d6573bb914e3" controls></video>
 
 ## Data Captured
 
